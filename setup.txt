@@ -1,0 +1,6 @@
+git clone <repository URL>
+cd <project directory>
+python -m venv venv
+venv\Scripts\activate.bat
+pip install -r requirements.txt
+python <your script>.py
