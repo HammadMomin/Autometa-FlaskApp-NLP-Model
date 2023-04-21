@@ -43,7 +43,7 @@ Now You Can See Your Flask Applicaton Is Running at Port http://127.0.0.1:5000.
 ![2023-04-21 23-52-04](https://user-images.githubusercontent.com/99894207/233710529-aa34bece-1dcd-40d6-8be5-0fbaf36eb72a.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------
-If You May Have Any Query You Can Reach me Out At `mohdhammad.momin@gmail.com`
+If You May Have Any Queries, You Can Reach me Out At `mohdhammad.momin@gmail.com`
 
 
  
