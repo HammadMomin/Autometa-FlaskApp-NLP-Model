@@ -28,3 +28,9 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
+Now You Can See Your Flask Applicaton Is Running at Port http://127.0.0.1:5000.
+
+![Flask Terminal](https://user-images.githubusercontent.com/99894207/233700006-5de2facb-4b43-4fa8-8c97-70551201e55a.gif)
+
+
+
