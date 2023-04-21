@@ -32,5 +32,11 @@ Now You Can See Your Flask Applicaton Is Running at Port http://127.0.0.1:5000.
 
 ![Flask Terminal](https://user-images.githubusercontent.com/99894207/233700006-5de2facb-4b43-4fa8-8c97-70551201e55a.gif)
 
+--------------------------------------------------------------------------------------------------------------------------------
+
+* After This Your Flask Application is Ready To take 2 Variables as "text" and "questions" from nodeJs application (https://github.com/HammadMomin/Autometa-Web-App.git) with the help of axios.post method And Serve it to the Jupyter Notebook i.e "QAS.ipynb" as a input varibales by using papermill library. After Execution it Gernerates Output Notebook i.e "QAS_outuput.ipynb" and output.txt 
+
+* From the output.txt file we are extracting the output and send it back to nodeJS (To Display it to the Frontend Of the Web Application) 
+
 
 
