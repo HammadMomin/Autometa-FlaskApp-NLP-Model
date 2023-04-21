@@ -10,4 +10,12 @@ git clone https://github.com/HammadMomin/Autometa-FlaskApp-NLP-Model.git
 ```
 python -m venv venv
 ```
-This Above Command will create a virtual environment named as "venv" in the Project Directory. This Command Will Not Work If You Dont have Python in Your Machine. If Not then install it from https://www.python.org/downloads/ and Include this in your System Environment Variables Inside the Path. After This You are Good to run the above command for creating the virtual environment. 
+This Above Command will create a virtual environment named as "venv" in the Project Directory. This Command Will Not Work If You don't have Python in Your Machine. If Not then install it from https://www.python.org/downloads/ and Include this in your System Environment Variables Inside the Path. After This You are Good to run the above command for creating the virtual environment. 
+
+<ins>**Step 3:**</ins> To Activate your virtual environemnt i.e venv. Run the Following Command. 
+```
+venv\Scripts\activate.bat
+```
+This Will Activate the Virtual And You Can See Something Like This On your Terminal.
+
+![venv terminal](https://user-images.githubusercontent.com/99894207/233696776-a7000a45-14b3-4d53-b95d-cf4bd6ef1966.png)
