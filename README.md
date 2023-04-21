@@ -38,5 +38,7 @@ Now You Can See Your Flask Applicaton Is Running at Port http://127.0.0.1:5000.
 
 * From the output.txt file we are extracting the output and send it back to nodeJS (To Display it to the Frontend Of the Web Application) 
 
+* Below is Shown that when the axios.post request get hitted from nodeJS then it will Act as API and Execute the Notebook And Send the Output Back. 
 
+ 
 
