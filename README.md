@@ -2,15 +2,16 @@
 
 Below Are the Steps to Run This Application On your System
 --------------------------------------------------------------------
-<ins>**Step 1:**</ins> Firstly, From the Drive Link Given Below Download the Two Files "MODEL_APR_23" and "tokenizer_encoder.unknown" into the main Project Directory As shown Below. <ins>**DRIVE LINK:**</ins> https://drive.google.com/drive/folders/1mkPbn_6zuydKQJHpnqR1Rb-KEFyc0gKz?usp=sharing
+
+<ins>**Step 1:**</ins> To clone the repository, use the following command:
+```
+git clone https://github.com/HammadMomin/Autometa-FlaskApp-NLP-Model.git
+```
+<ins>**Step 2:**</ins> Firstly, From the Drive Link Given Below Download the Two Files "MODEL_APR_23" and "tokenizer_encoder.unknown" into the main Project Directory As shown Below. <ins>**DRIVE LINK:**</ins> https://drive.google.com/drive/folders/1mkPbn_6zuydKQJHpnqR1Rb-KEFyc0gKz?usp=sharing
 
 ![folder_structure_flask](https://user-images.githubusercontent.com/99894207/233835563-b7c0ab4a-f3c0-41f1-8a32-1f9ce2726e4d.png)
 
 
-<ins>**Step 2:**</ins> To clone the repository, use the following command:
-```
-git clone https://github.com/HammadMomin/Autometa-FlaskApp-NLP-Model.git
-```
 <ins>**Step 3:**</ins> Go to project directory folder and run this Command.
 ```
 python -m venv venv
